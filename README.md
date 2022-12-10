@@ -16,4 +16,4 @@ Button light && breathing light (Not working)
 
 audio (Not working)
 
-kernel source code:https://github.com/linux-latte/kernel
+kernel source code(https://github.com/linux-latte/kernel)
