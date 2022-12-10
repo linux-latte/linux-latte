@@ -21,5 +21,8 @@ WLAN(Working)
 BT(Not Working)
 
 kernel source code(https://github.com/linux-latte/kernel)
-https://lore.kernel.org/all/?q=Xiaomi%20Mi%20Pad%202(ctrl+c,ctrl+v code)
+https://lore.kernel.org/all/?q=Xiaomi%20Mi%20Pad%202
+
+(ctrl+c,ctrl+v code)
+
 there are many questions
