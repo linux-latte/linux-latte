@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: GPL-2.0+
 # (C) Copyright 2018 Linaro Ltd
 # NVRAM config file for the brcmfmac4356 PCI wifi chip found on the Xiaomi
-# Mi Pad 2 tablet's mainboard
+# Xiaomi Mi Pad 2 tablet's mainboard
 AvVmid_c0=2,140,2,145,2,145,2,145,2,145
 AvVmid_c1=2,140,2,145,2,145,2,145,2,145
 AvVmid_c2=0,0,0,0,0,0,0,0,0,0
