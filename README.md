@@ -7,11 +7,13 @@ use nomodeset install system,After installation,Use nodesetmod Boot system,Open 
 
 GPU (Working)
 
+Touchscreen (Part working)
+
 Battery Monitoring (Working)
 
 Sensor (Working)
 
-Charge (Part work)
+Charge (Part working)
 
 Camera (Not working)
 
@@ -23,7 +25,7 @@ Audio (Not working)
 
 WLAN(Working)
 
-BT(Not Working)
+BT(Working)
 
 Kernel Source Code(https://github.com/linux-latte/kernel)
 
