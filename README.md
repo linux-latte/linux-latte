@@ -5,27 +5,27 @@ use nomodeset install system,After installation,Use nodesetmod Boot system,Open 
 
 
 
-GPU (Working)
+[i915]GPU (Working)
 
-Touchscreen (Part working)
+[?]Touchscreen (Part working)
 
-Battery Monitoring (Working)
+[BQ27520]Battery Monitoring (Working)
 
-Sensor (Working)
+[?]Sensor (Working)
 
-Charge (Part working)
+[BQ25890]Charge (Part working)
 
-Camera (Not working)
+[?]Camera (Not working)
 
-Backlight Control (Working)
+[LP8556]Backlight Control (Working)
 
-Button Light && breathing light (Not working)
+[?]Button Light && breathing light (Not working)
 
-Audio (Not working)
+[RT5659,NXP9890(TFA9890)]Audio (Not working)
 
-WLAN(Working)
+[BCM4356]WLAN(Working)
 
-BT(Working)
+[]BT(Working)
 
 Kernel Source Code(https://github.com/linux-latte/kernel)
 
