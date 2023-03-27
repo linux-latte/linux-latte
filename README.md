@@ -1,8 +1,11 @@
-Xiaomi Mi Pad2 for linux kernel 5.15
+Xiaomi Mi Pad2 for linux kernel 
 
 use nomodeset install system,After installation,Use nodesetmod Boot system,Open terminal input(sudo dpkg -i linux-image-5.15.80_5.15.80-10.00.Custom_amd64.deb && sudo cp brcmfmac4356-pcie.txt /lib/firmware/brcm)Then restart the system and wait for startup
 
+If the kernel cannot be started
+Please close Secure Boot
 
+(Google Translate)
 
 
 [i915]GPU (Working)
